@@ -6,7 +6,7 @@ const CopyPlugin = require('copy-webpack-plugin')
 module.exports = {
   entry: {
    option:  './src/option-page/option.js',
-   background: './src/background/service-worker.js'
+   "service_worker": './src/background/service_worker.js'
   },
   output: {
     filename: '[name].js',
