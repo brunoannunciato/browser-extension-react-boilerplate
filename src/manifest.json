@@ -1,0 +1,6 @@
+{
+	"name": "chromium extension boilerplate",
+	"description": "A boilerplate to chrome extension using React.js and Sass",
+	"version": "0.1.0",
+	"manifest_version": 3
+}
